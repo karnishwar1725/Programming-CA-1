@@ -1,0 +1,15 @@
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/bin/Debug/net9.0/20086868_Que_2
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/bin/Debug/net9.0/20086868_Que_2.deps.json
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/bin/Debug/net9.0/20086868_Que_2.runtimeconfig.json
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/bin/Debug/net9.0/20086868_Que_2.dll
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/bin/Debug/net9.0/20086868_Que_2.pdb
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.AssemblyInfoInputs.cache
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.AssemblyInfo.cs
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.csproj.CoreCompileInputs.cache
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.dll
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/refint/20086868_Que_2.dll
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.pdb
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.genruntimeconfig.cache
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/ref/20086868_Que_2.dll
+/Users/DELL/Downloads/CA-1/Advanced programming/20086868_Que_2/20086868_Que_2/obj/Debug/net9.0/20086868_Que_2.sourcelink.json
